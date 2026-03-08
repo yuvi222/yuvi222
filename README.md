@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yuvraj</h1>
 <h3 align="center">🚀 Flutter Developer</h3>
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708957/screenshots/4188877/media/5c8266a20c84783a2ed8f20814e5a64e.gif" />
 
-- 🔭 I’m currently working on **[pretty_date_time](https://github.com/yuvi222/pretty_date_time)** – A human-friendly DateTime formatter package for Dart & Flutter.
-
-- 🌱 I’m currently learning **Node JS** and enhancing backend skills.
-
+- 🔭 I'm currently working on **[pretty_date_time](https://github.com/yuvi222/pretty_date_time)** – A human-friendly DateTime formatter package for Dart & Flutter.
+- 🌱 I'm currently learning **Node JS** and enhancing backend skills.
 - 📫 How to reach me: **yuvrajsalunke226@gmail.com**
 
 ---
@@ -45,6 +42,7 @@
 
 ### 🧩 Fun Projects You Can Explore:
 - 📦 [pretty_date_time](https://pub.dev/packages/pretty_date_time) – Convert DateTime into natural language format.
+- 🔐 [Secure Card Wallet](https://securecardwallet.netlify.app/) – Offline-first digital card manager with AES-256 encryption, NFC tap-to-scan, OCR scanning, and biometric lock. Zero cloud, 100% private. [Get it on Play Store →](https://play.google.com/store/apps/details?id=com.appverse.securecardwallet)
 - 📰 News Reader App – Renders news from CSV and JSON.
 - 🧮 Age Calculator – Displays precise age with birthday countdown.
 
