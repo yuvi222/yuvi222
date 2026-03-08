@@ -2,6 +2,7 @@
 <h3 align="center">🚀 Flutter Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708957/screenshots/4188877/media/5c8266a20c84783a2ed8f20814e5a64e.gif" />
 
+- 🔐 [Secure Card Wallet](https://securecardwallet.netlify.app/) – Offline-first digital card manager with AES-256 encryption, NFC tap-to-scan, OCR scanning, and biometric lock. Zero cloud, 100% private. [Get it on Play Store →](https://play.google.com/store/apps/details?id=com.appverse.securecardwallet)
 - 🔭 I'm currently working on **[pretty_date_time](https://github.com/yuvi222/pretty_date_time)** – A human-friendly DateTime formatter package for Dart & Flutter.
 - 🌱 I'm currently learning **Node JS** and enhancing backend skills.
 - 📫 How to reach me: **yuvrajsalunke226@gmail.com**
