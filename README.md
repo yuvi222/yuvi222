@@ -52,5 +52,7 @@
 ### 🔗 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/yuvrajsalunke/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram&style=for-the-badge)](https://www.instagram.com/yuvraj_salunke?igsh=NW5xMjJranZhYjhv)
+[![X](https://img.shields.io/badge/X-Follow-black?logo=x&style=for-the-badge)](https://x.com/58f870f1a6274b4)
+[![Reddit](https://img.shields.io/badge/Reddit-Follow-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://www.reddit.com/user/Yuvi_222/)
 
 ---
